@@ -1,3 +1,9 @@
+body {
+ background-image: url("http://www.flickr.com/photos/brenda-starr/5084485739/");
+ background-color: #cccccc;
+}
+
+
 h1 {
   text-align: center;
   color: red;
@@ -33,4 +39,8 @@ img {
   margin-right: auto;
   border: solid black;
 
+}
+
+.left {
+  text-align: left;
 }
